@@ -1,17 +1,3 @@
-// function startGame() {
-//   function enter() {
-//     var enterApartment = document.getElementById("gameText").innerHTML;
-//     var txt = str.replace(
-//       "You come home from a party and as soon as you open your apartment door, a giant monster is running towards you! Click OK if you want to be a hero and beat the monster. Otherwise leave the apartment by clicking cancel."
-//     );
-//     document.getElementById("gameText").innerHTML = txt;
-//   }
-
-//   function leave() {
-//     // The other logic
-//   }
-// }
-
 function playGame() {
   var enterApartment = confirm(
     "You come home from a party and as soon as you open your apartment door, a giant monster is running towards you! Click OK if you want to be a hero and beat the monster. Otherwise leave the apartment by clicking cancel."
