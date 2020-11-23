@@ -5,3 +5,5 @@ This game is a small monster killing game made on alerts and prompts. The aim of
 A demo link: 
 
 https://github.com/nisatokmak/Laboration-One.git
+
+https://nisatokmak.github.io/Laboration-One/
